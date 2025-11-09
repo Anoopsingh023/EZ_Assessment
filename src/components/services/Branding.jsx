@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import vectorTLine from "../../assets/vectorTLine.svg";
+import vectorTLine from "../../assets/VectorTLine.svg";
 import brandingPage from "../../assets/brandingPage.png";
 import brand01 from "../../assets/brand01.svg";
 import brand02 from "../../assets/brand02.svg";
