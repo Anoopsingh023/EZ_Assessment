@@ -1,6 +1,6 @@
 import React from "react";
-import group9 from "../../assets/Group 9.png";
-import group2 from "../../assets/Group 2.svg";
+import group9 from "../../assets/Group9.png";
+import group2 from "../../assets/Group2.svg";
 import gate from "../../assets/gate.svg";
 import vector from "../../assets/Vector.svg";
 import vectorR from "../../assets/VectorR.svg";

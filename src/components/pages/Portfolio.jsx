@@ -1,6 +1,6 @@
 import React from "react";
 import film from "../../assets/film.png";
-import camera from "../../assets/camera.svg";
+import camera from "../../assets/Camera.svg";
 
 const HeroHighlightReel = () => {
   return (
