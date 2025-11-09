@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import vectorTLine from "../../assets/vectorTLine.svg";
+import vectorTLine from "../../assets/VectorTLine.svg";
 import production from "../../assets/production.png";
 import Camera01 from "../../assets/Camera01.svg";
 import Camera02 from "../../assets/Camera02.svg";
