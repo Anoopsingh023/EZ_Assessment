@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import vectorTLine from "../../assets/vectorTLine.svg";
+import vectorTLine from "../../assets/VectorTLine.svg";
 import imgage6 from "../../assets/image6.png";
 import film from "../../assets/film.png";
 import art from "../../assets/art.png";
