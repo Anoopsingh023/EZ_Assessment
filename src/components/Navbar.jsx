@@ -64,7 +64,7 @@ const Navbar = () => {
       )}
 
       {openNav && (
-        <div className="md:hidden absolute top-0 left-0 right-0 bg-[#2121219c] shadow-lg z-40">
+        <div className="md:hidden absolute top-0 left-0 right-0 bg-[#212121d1] shadow-lg z-40">
           <div className="flex flex-col items-center py-6 gap-4">
             {/* Close control (mobile) */}
             <div className="absolute top-4 right-4">
